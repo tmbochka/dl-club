@@ -1,4 +1,15 @@
-# dl-club
+O# dl-club
+
+https://github.com/UKPLab/sentence-transformers/blob/master/docs/sentence_transformer/training_overview.md
+
+https://gpt-chatbot.ru/
+
+https://talkai.info/ru/chat/
+
+https://qudata.com/ru/chat-gpt/
+
+
+_________________
 
 https://trychatgpt.ru/
 
