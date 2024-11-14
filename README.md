@@ -29,3 +29,9 @@ https://www.kaggle.com/models/mistral-ai/mistral/PyTorch/7b-v0.1-hf
 https://sbert.net/#
 
 https://huggingface.co/ai-forever/sbert_large_nlu_ru
+
+https://huggingface.co/models?language=ru
+
+https://huggingface.co/sismetanin/xlm_roberta_base-ru-sentiment-rureviews
+
+m3
