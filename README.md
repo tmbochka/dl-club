@@ -27,3 +27,5 @@ https://www.kaggle.com/code/thuongvan/dat-detect-ai-generated/notebook
 https://www.kaggle.com/models/mistral-ai/mistral/PyTorch/7b-v0.1-hf
 
 https://sbert.net/#
+
+https://huggingface.co/ai-forever/sbert_large_nlu_ru
