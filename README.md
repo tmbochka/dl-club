@@ -35,3 +35,5 @@ https://huggingface.co/models?language=ru
 https://huggingface.co/sismetanin/xlm_roberta_base-ru-sentiment-rureviews
 
 m3
+
+NV-Embed-v2
