@@ -1,4 +1,4 @@
-O# dl-club
+# dl-club
 
 https://github.com/UKPLab/sentence-transformers/blob/master/docs/sentence_transformer/training_overview.md
 
@@ -11,38 +11,19 @@ https://qudata.com/ru/chat-gpt/
 
 _________________
 
-https://trychatgpt.ru/
 
-https://github.com/utd-ai/Data_Mining_in_Action_2018_Spring
+https://www.kaggle.com/models/metaresearch/llama-2/PyTorch/7b-hf
 
-https://github.com/catboost/tutorials/blob/master/cross_validation/cv_tutorial.ipynb
+https://www.kaggle.com/models/google/universal-sentence-encoder/TensorFlow2/large
 
-https://habr.com/ru/articles/571296/
+https://www.kaggle.com/models/rashmibanthia/llm-detect-deberta-v3-large/PyTorch/5folds
 
-https://habr.com/ru/articles/814981/
+https://www.kaggle.com/models/rashmibanthia/llm-detect-roberta-large/PyTorch/5folds
 
-https://habr.com/ru/articles/599827/
+https://www.kaggle.com/models/tensorflow/bert/code
 
-https://github.com/PolushinM/Hierarchical-Classifier
+https://www.kaggle.com/code/thuongvan/dat-detect-ai-generated/notebook
 
-https://www.geeksforgeeks.org/catboost-cross-validation-and-hyperparameter-tuning/
+https://www.kaggle.com/models/mistral-ai/mistral/PyTorch/7b-v0.1-hf
 
-https://habr.com/ru/articles/799483/
-
-https://habr.com/ru/companies/otus/articles/778714/
-
-https://newtechaudit.ru/gradientnyj-busting-s-catboost-chast-1-3/
-
-https://habr.com/ru/companies/ods/articles/325422/
-___
-
-https://github.com/MoonInfinity2007/AI_code_vseross_AI/blob/main/%D0%92%D0%A1%D0%9E%D0%A8_1.ipynb
-
-
-___
-
-https://www.kaggle.com/datasets/thedevastator/best-location-for-a-gaming-company/code
-
-https://www.kaggle.com/code/ceshine/lgbm-starter
-
-https://habr.com/ru/companies/skillfactory/articles/530594/
+https://sbert.net/#
